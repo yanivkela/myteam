@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myteam/static/css/main.e28ca69e.css",
-    "main.js": "/myteam/static/js/main.29f3a8f5.js",
+    "main.js": "/myteam/static/js/main.ee1a44b1.js",
     "static/js/787.ecd87c73.chunk.js": "/myteam/static/js/787.ecd87c73.chunk.js",
     "static/media/Livvic-Bold.ttf": "/myteam/static/media/Livvic-Bold.089af19ac41ce144a96c.ttf",
     "static/media/Livvic-SemiBold.ttf": "/myteam/static/media/Livvic-SemiBold.c79c53d29c413ab69adb.ttf",
@@ -9,11 +9,11 @@
     "static/media/Livvic-Medium.ttf": "/myteam/static/media/Livvic-Medium.e1727d156b658481f5c4.ttf",
     "index.html": "/myteam/index.html",
     "main.e28ca69e.css.map": "/myteam/static/css/main.e28ca69e.css.map",
-    "main.29f3a8f5.js.map": "/myteam/static/js/main.29f3a8f5.js.map",
+    "main.ee1a44b1.js.map": "/myteam/static/js/main.ee1a44b1.js.map",
     "787.ecd87c73.chunk.js.map": "/myteam/static/js/787.ecd87c73.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e28ca69e.css",
-    "static/js/main.29f3a8f5.js"
+    "static/js/main.ee1a44b1.js"
   ]
 }
